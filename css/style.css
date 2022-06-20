@@ -82,7 +82,7 @@ header{
     position: absolute;
     right: 0;
     bottom: 0;
-    background-image: url(/ressources/images/pool.png);
+    background-image: url(./ressources/images/pool.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
